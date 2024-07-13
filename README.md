@@ -48,9 +48,8 @@ If bundler is not being used to manage dependencies, install the gem by executin
 ## Usage
 
 Example:
-```
-stree write --plugins=no_alignment lib/**/*.rb
-```
+
+    $ stree write --plugins=no_alignment lib/**/*.rb
 
 ## Contributing
 
