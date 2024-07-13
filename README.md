@@ -4,7 +4,7 @@ SyntaxTree gem can format your Ruby code and I think it's pretty good at that!
 Despite not having many configuration options, it does have a plugin system 
 for people who want to change a thing or two in its behavior.
 
-There are 2 common ways to [align arguments in a multiline method call](rubocop_rule):
+There are 2 common ways to [align arguments in a multiline method call][rubocop_rule]:
 
 - align them to the first argument
 - use fixed indentation
