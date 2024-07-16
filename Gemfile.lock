@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    syntax_tree-no_alignment (0.1.0)
+    syntax_tree-no_alignment (0.1.1)
       syntax_tree
 
 GEM
